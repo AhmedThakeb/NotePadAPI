@@ -1,0 +1,6 @@
+@NotePad_HostAddress = http://localhost:5110
+
+GET {{NotePad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
